@@ -1,6 +1,6 @@
 def str_upper():
     '''
-    Функция букв верхнего регистра
+    Функция букв
     '''
     line_1 = "asdfghjkl"
     return line_1.upper()
