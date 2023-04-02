@@ -1,6 +1,6 @@
 def str_upper():
     '''
-    Функция 
+    Функция букв верхнего регистра
     '''
     line_1 = "asdfghjkl"
     return line_1.upper()
@@ -11,7 +11,7 @@ print(str_upper())
 
 def str_title():
     '''
-    Функция 
+    Функция всех заглавных букв верхнего регистра
     '''
     Line_1 = "пусть бегут неуклюже, пешеходы по лужам"
     return Line_1.title()
